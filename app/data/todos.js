@@ -1,0 +1,23 @@
+export const data = [
+    { id: 1, title: 'data 1', completed: true },
+    { id: 2, title: 'data 2', completed: false },
+    { id: 3, title: 'data 3', completed: true },
+    { id: 4, title: 'data 4', completed: false },
+    { id: 5, title: 'data 5', completed: true },
+    { id: 6, title: 'data 6', completed: false },
+    { id: 7, title: 'data 7', completed: true },
+    { id: 8, title: 'data 8', completed: false },
+    { id: 9, title: 'data 9', completed: true },
+    { id: 10, title: 'data 10', completed: false },
+    { id: 11, title: 'data 11', completed: true },
+    { id: 12, title: 'data 12', completed: false },
+    { id: 13, title: 'data 13', completed: true },
+    { id: 14, title: 'data 14', completed: false },
+    { id: 15, title: 'data 15', completed: true },
+    { id: 16, title: 'data 16', completed: false },
+    { id: 17, title: 'data 17', completed: true },
+    { id: 18, title: 'data 18', completed: false },
+    { id: 19, title: 'data 19', completed: true },
+    { id: 20, title: 'data 20', completed: false },
+];
+
